@@ -1,22 +1,51 @@
-# MEAN-stack-project
+# MIU-MSD-CS566-2022-07-Final-Project-Requirement
+Duration (2 weeks): 06/20/2022 - 07/01/2022 
 
-## Weekly exercise and nutrition Application
-My application specifications
-Build an application that will help people to plan and schedule their exercise and nutrition weekly based. Only authenticated users will be able to use the system. The idea is to allow user to discipline and remind everyday accordingly.
+## Project topic 
 
-## General requirements
+Select your own project you are enthusiastic about.  
 
-•	Every user has a profile page, shows their name, address, contact information. The application uses APIs, which will help the backend server tune all queries to find results of exercise and nutrition data.
-•	There will be Three collection (users, Exercise, and nutrition).
-•	Database collection has user as administrator or users depend on their role.
-•	Users can access all collection at the backend after login.
-•	Any user can register first time and login as a user.
+## Technology 
 
-## Technical requirements
+* Frontend 
 
-•	Login page display login prompt otherwise signup prompt.
-•	Signup page display prompt basic user information for registration.
-•	Homepage display basic information about the user and to routes (Exercise and Nutrition) that take to schedule page. 
-•	Schedule display lists of 10 results per page, and to select from list of exercise and Nutrition.
-•	Depends on the time frame Pop-up message and chatting features will be added.
+	Web: React or Angular 
 
+	Mobile: React Native 
+
+	You should use CSS for your front end. If you implement a web application, please check the responsive web. 
+
+* Backend 
+
+	NodeJS Express 
+
+* Database 
+
+	MongoDB 
+
+* Deployment  
+
+	Use cloud (AWS, Azure, Google cloud...) to deploy your application. In the case of mobile applications, you can show me by running the app on your mobile or computer, however, you need to deploy the backend and database to cloud. 
+
+## Daily – Scrum master 
+
+After starting your project, you should report in the file report.md every morning at 9:00 AM.  
+
+* What did you do yesterday? 
+
+* What are you going to do today? 
+
+* Is there any block? 
+
+## Timeline 
+I will send the exact time by email to each person.
+* 06/21/2022: Report the project topic (15 minutes) 
+
+* 06/22/2022: Report on the design (Frontend/Backend/Database) (15 minutes) 
+
+* 06/30/2022: Push the final code to github 
+
+* 07/01/2022: Present the project (20 minutes) 
+
+
+I am available from 10:00 AM – 12:00 PM, Mon – Fri. Please send any question in advance. I will give you a call back if needed. 
